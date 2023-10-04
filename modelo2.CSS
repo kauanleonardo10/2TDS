@@ -1,2 +1,6 @@
-/*############################# PARTE 14 - Letter-Spacing
+/*############################# PARTE 14 - Letter-Spacing ########################
 p#abc {letter-spacing: 5px;}
+
+/*############################# PARTE 15 - word-Spacing ########################
+p#abc {word-spacing: 5px;}
+
