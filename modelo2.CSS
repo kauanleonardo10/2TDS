@@ -1,4 +1,4 @@
-/*############################# PARTE 14 - Letter-Spacing ########################
+/*############################# PARTE 14 - Letter-Spacing ######################## 
 p#abc {letter-spacing: 5px;}
 
 /*############################# PARTE 15 - word-Spacing ########################
@@ -16,7 +16,7 @@ p.overline {text-decoration: overline;}
 p.line-through {text-decoration: line-through;}
 a {text-decoration: none;}
 
-/*############################# PARTE 18 - Text-Tranform ########################
+/*############################# PARTE 18 - Text-Tranform ######################## 
 p.primeiro-maiusculo {text-trasform: capitalize;}
 p.maiusculo {text-trasform: uppercase;}
 p.minusculo {text-traform: lowercase;}
